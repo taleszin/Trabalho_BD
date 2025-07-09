@@ -1,0 +1,350 @@
+DOENÇA ARTERIAL
+CORONARIANA ESTÁVEL
+(DAC ESTÁVEL)
+PROF. PAULO DALTO
+Estratégia
+MED
+CARDIOLOGIA Prof. Paulo Dalto| Doença Arterial Coronariana Estável 2
+PROF. PAULO
+DALTO
+INTRODUÇÃO
+Olá, querido(a) Estrategista! Este é um RESUMÃO de seu
+livro Doença Arterial Coronariana Estável. Ele foi elaborado
+de maneira bem didática e direta, com os assuntos mais
+quentes sobre o tema.
+Um detalhe importante: diagnóstico, tratamento e
+conduta são os temas mais cobrados.
+Aqui vai uma orientação: sugiro que você use este livro
+como um guia de consulta rápida, e não deixe de ler o
+livro completo, pois lá você encontrará informações e
+questões que ajudarão a sedimentar seu conhecimento.
+Vamos começar nosso resumo? ;)
+@estrategiamed
+/estrategiamed Estratégia MED
+t.me/estrategiamed
+@ profpaulodalto
+Estratégia
+MED
+Prof. Paulo Dalto| Resumo Estratégico | 2024 3
+CARDIOLOGIA Doença Arterial Coronariana Estável
+SUMÁRIO
+1.0 DEFINIÇÃO 4
+2.0 AVALIAÇÃO AMBULATORIAL DO PACIENTE COM DOR TORÁCICA 4
+2.1 ANAMNESE E EXAME FÍSICO 4
+2.2 DIAGNÓSTICO DIFERENCIAL DE DOR TORÁCICA. 6
+2.3 EXAMES COMPLEMENTARES 6
+3.0 TRATAMENTO 9
+3.1 NÃO FARMACOLÓGICO - MUDANÇA DO ESTILO DE VIDA 9
+3.2 FARMACOLÓGICO 9
+3.2.1 DROGAS ANTI-ISQUÊMICAS 9
+3.2.2 DROGAS QUE PREVINEM EVENTOS CARDIOVASCULARES 11
+3.3 INDICAÇÕES DE REVASCULARIZAÇÃO 11
+4.0 LISTA DE QUESTÕES 13
+5.0 REFERÊNCIAS BIBLIOGRÁFICAS 14
+6.0 CONSIDERAÇÕES FINAIS 14
+Estratégia
+MED
+Prof. Paulo Dalto| Resumo Estratégico | 2024 4
+CARDIOLOGIA Doença Arterial Coronariana Estável
+1.0 DEFINIÇÃO
+CAPÍTULO
+A doença arterial coronariana (DAC) estável tem como causa principal a obstrução de uma ou mais artérias coronárias por placas
+ateroscleróticas.
+A palavra estável explica como essa doença se comporta, de forma estável. A dor anginosa geralmente é precipitada pela mesma
+intensidade de atividade física, tem caráter crônico (> 2 meses de duração) e não muda de padrão. O eletrocardiograma (ECG) geralmente é
+normal, e os marcadores de necrose miocárdica, negativos.
+CAPÍTULO
+2.0 AVALIAÇÃO AMBULATORIAL DO PACIENTE COM
+DOR TORÁCICA
+A avaliação do paciente com suspeita de DAC é multimodal, iniciando-se pela anamnese e exame físico, podendo progredir para a
+realização de exames invasivos, como o cateterismo.
+Nos pacientes com dor torácica, é importante a realização de uma história clínica e exame físico completos, além da pesquisa dos
+fatores de risco (hipertensão, diabetes, dislipidemia, tabagismo, obesidade, história familiar de doença coronariana precoce).
+2.1 ANAMNESE E EXAME FÍSICO
+A apresentação clínica é variável, com pacientes
+manifestando dor torácica típica, pacientes assintomáticos, ou com
+sintomas atípicos (equivalentes isquêmicos).
+A angina típica é descrita como um desconforto
+torácico (constrição, aperto, peso, queimação) que pode
+irradiar para a região cervical, mandíbula, dorso, epigástrio ou
+membros superiores, com duração menor do que 10 minutos.
+Frequentemente é desencadeada ou agravada por atividade física
+ou estresse emocional, e aliviada com repouso ou uso de nitratos
+(normalmente a melhora ocorre em menos de 5 minutos).
+Para classificação adequada da dor torácica, três dados da
+anamnese são fundamentais: 1) localização e tipo; 2) irradiação ou
+sintomas associados; 3) fatores desencadeantes.
+Figura 1. Localização e irradiação da dor anginosa
+Estratégia
+MED
+Prof. Paulo Dalto | Resumo Estratégico | 2024 5
+CARDIOLOGIA Doença Arterial Coronariana Estável
+Baseado nessas três características, podemos classificar a dor torácica:
+CLASSIFICAÇÃO DA DOR TORÁCICA
+Tipo A (definitivamente anginosa) Possui as 3 características
+Tipo B (provavelmente anginosa) Possui 2 características
+Tipo C (provavelmente não anginosa) Apenas 1 característica
+Tipo D (definitivamente não anginosa) Nenhuma característica
+ A angina típica equivale às dores dos tipos A e B, já a atípica, a dos tipos C e D.
+Uma dor acima da mandíbula, abaixo do epigástrio ou localizada em uma região pontual do tórax raramente é anginosa.
+Alguns pacientes podem apresentar os famosos equivalentes isquêmicos: dispneia, síncope, fadiga ou palpitações.
+PACIENTES QUE PODEM APRESENTAR DOR TORÁCICA ATÍPICA OU EQUIVALENTE ISQUÊMICO
+• Mulheres
+• Idosos
+• Diabéticos
+• Pacientes com doença renal crônica
+• Pacientes com quadro demencial
+• Transplantados cardíacos
+A maioria dos pacientes apresenta exame físico normal. Porém, durante o episódio de angina, podem ocorrer indícios da existência ou
+não de DAC, como a presença de terceira bulha (B3) ou galope, quarta bulha (B4), sopro de insuficiência mitral, desdobramento paradoxal de
+segunda bulha (B2) e crepitações pulmonares bibasais. Achados de doença aterosclerótica em outros territórios, como pulsos em membros
+inferiores diminuídos, endurecimento arterial e aneurisma de aorta abdominal, aumentam a probabilidade de DAC.
+Estratégia
+MED
+Prof. Paulo Dalto| Resumo Estratégico | 2024 6
+CARDIOLOGIA Doença Arterial Coronariana Estável
+2.2 DIAGNÓSTICO DIFERENCIAL DE DOR TORÁCICA.
+A dor torácica pode ter origem cardíaca ou não cardíaca. O esquema a seguir mostra os principais diagnósticos diferenciais.
+DOR TORÁCICA
+CARDÍACA
+ISQUÊMICA NÃO ISQUÊMICA
+ANGINA INSTÁVEL
+IAM
+PERICARDITE
+DISSECÇÃO AGUDA DE AORTA
+VALVULAR
+ANGINA ESTÁVEL
+GASTROESOFAGIANA NÃO GASTROESOFAGIANA
+NÃO CARDÍACA
+RGE
+ESPASMO ESOFAGIANO
+PNEUMOTÓRAX
+EMBOLIA PULMONAR
+MUSCULOESQUELÉTICA
+PSICOEMOCIONAL
+ÚLCERA PÉPTICA
+*IAM = infarto agudo do miocárdio, RGE = refluxo gastroesofágico
+2.3 EXAMES COMPLEMENTARES
+Os principais exames que auxiliam no diagnóstico e acompanhamento da DAC estável são o ecocardiograma, teste ergométrico,
+cintilografia de perfusão miocárdica, tomografia de artérias coronárias e o cateterismo.
+Os detalhes e as indicações de cada exame você encontra no livro digital. Aqui, simplificarei ao máximo a investigação do paciente com
+dor torácica crônica.
+Normalmente, a investigação se inicia com um teste não invasivo. O teste ergométrico é mais solicitado. Para definir qual exame
+solicitar, basta você fazer duas perguntas:
+1. O paciente consegue se exercitar?
+2. O ECG é interpretável? (ausência de BRE, marca-passo, depressão do segmento ST > 1 mm em repouso).
+Se a resposta for SIM para as duas perguntas, você está autorizado(a) a pedir o teste ergométrico. Caso o paciente não consiga andar
+na esteira ou o ECG tenha alguma alteração de base (ECG não interpretável), você pode solicitar um exame com estresse farmacológico
+(ecocardiograma ou cintilografia).
+Estratégia
+MED
+Prof. Paulo Dalto | Resumo Estratégico | 2024 7
+CARDIOLOGIA Doença Arterial Coronariana Estável
+Consegue exercitar?
+Exames conflitantes/ inconclusivos:
+Avaliar anatomia (angiotomografia)
+Teste Ergométrico
+(ECG Interpretável)
+Estresse farmacológico
+(ecocardiograma ou cintilografia)
+sim não
+Se em algum momento os resultados forem conflitantes ou inconclusivos, você terá que avaliar a anatomia coronariana através da
+angiotomografia. Veja o esquema abaixo:
+» Qual teste escolher?
+- Paciente capaz de exercitar-se: teste ergométrico. Se ECG for interpretável, realizar exame de
+estresse associado à imagem (cintilografia ou ecocardiograma).
+- Paciente incapaz de exercitar-se: estresse farmacológico com cintilografia ou ecocardiograma.
+- Testes funcionais conflitantes, inconclusivos, em pacientes de risco intermediário: testes
+anatômicos (preferência pela angio TC de coronárias).
+Estratégia
+MED
+Prof. Paulo Dalto| Resumo Estratégico | 2024 8
+CARDIOLOGIA Doença Arterial Coronariana Estável
+Existem situações em que o paciente é muito grave, por exemplo, na presença de angina aos mínimos esforços (CCS III), angina em
+repouso e refratária ao tratamento (CCS IV), ou naqueles sobreviventes de morte súbita. Nesses casos, solicite o cateterismo logo de cara!
+Juntando tudo! Este fluxograma resume o raciocínio clínico na investigação de DAC crônica em pacientes sintomáticos:
+DOR TORÁCICA CRÔNICA
+Angina CCS III ou IV; sobrevivente de morte súbita
+Diagnóstico duvidoso
+Angio TC de coronárias
+Teste não é de alto risco
+Otimizar tratamento
+clínico
+Melhora dos sintomas
+Manter tratamento clínico
+Sintomas refratários
+Cateterismo
+Teste de alto risco
+NÃO: teste funcional SIM: cateterismo direto
+Estratégia
+MED
+Prof. Paulo Dalto | Resumo Estratégico | 2024 9
+CARDIOLOGIA Doença Arterial Coronariana Estável
+CAPÍTULO
+3.0 TRATAMENTO
+Esse é o assunto mais cobrado! Os principais objetivos são prevenir o infarto do miocárdio, diminuindo a mortalidade, e reduzir os
+sintomas e a ocorrência de isquemia, com melhora na qualidade de vida.
+3.1 NÃO FARMACOLÓGICO - MUDANÇA DO ESTILO DE VIDA
+Envolve o controle dos fatores de risco para aterosclerose: hipertensão arterial, diabetes mellitus, tabagismo, dislipidemia, obesidade
+e sedentarismo.
+Resumindo em três ações: dieta, atividade física e cessação do tabagismo.
+3.2 FARMACOLÓGICO
+Os antiagregantes plaquetários, hipolipemiantes (especialmente as estatinas), betabloqueadores e inibidores da enzima conversora de
+angiotensina I (iECA), reduzem a incidência de infarto e aumentam a sobrevida. Os antagonistas dos canais de cálcio e a trimetazidina reduzem
+os sintomas e os episódios de isquemia miocárdica, melhorando a qualidade de vida dos pacientes. A ivabradina mostrou-se benéfica nos
+pacientes com disfunção ventricular (FE < 50%) e FC > 70 bpm, a despeito do uso de betabloqueadores.
+3.2.1 DROGAS ANTI-ISQUÊMICAS
+• BETABLOQUEADORES
+São drogas antianginosas de primeira linha. Possuem
+benefícios quanto à mortalidade e redução de infarto após
+síndrome coronariana aguda.
+São medicações que diminuem a frequência cardíaca
+(efeito cronotrópico negativo), a contratilidade miocárdica (efeito
+inotrópico negativo), a condução atrioventricular e a atividade
+ectópica ventricular. Muito eficazes na redução da angina induzida
+por esforço, melhorando a capacidade de exercício.
+Estão indicados para todos os pacientes com angina estável,
+sem infarto do miocárdio prévio e/ou disfunção do VE.
+• BLOQUEADORES DOS CANAIS DE CÁLCIO
+São agentes de segunda linha. Possuem eficácia semelhante
+aos betabloqueadores no controle da angina, pois provocam
+vasodilatação coronariana e sistêmica (principalmente arterial e
+arteriolar). Os principais representantes são:
+Di-hidropiridínicos (nifedipina, amlodipina, felodipina):
+podem ser combinados com os betabloqueadores nos casos de
+angina refratária. A nifedipina de curta ação deve ser evitada nos
+pacientes com IAM, pois resulta em taquicardia reflexa e aumenta
+a mortalidade.
+Não di-hidropiridínicos (verapamil e diltiazem): levam
+à redução da frequência cardíaca, não sendo recomendada a
+associação com betabloqueadores devido ao risco de bradicardia
+grave.
+• NITRATOS DE AÇÃO RÁPIDA
+Representados pelo dinitrato de isossorbida sublingual
+(Isordil®). São medicações de primeira linha no tratamento agudo
+das crises anginosas.
+• NITRATOS DE AÇÃO PROLONGADA
+Representados pelo dinitrato de isossorbida oral,
+mononitrato de isossorbida (Monocordil®) e propatilnitrato. Seu
+uso contínuo induz à tolerância medicamentosa, que pode ser
+contornada através do espaçamento entre as doses (período de 8 a
+10 horas livre da medicação). São considerados terapia de terceira
+linha.
+• TRIMETAZIDINA (Vastarel®)
+É uma medicação com efeitos metabólicos e anti-isquêmicos,
+sem qualquer interferência na hemodinâmica cardiovascular (não
+altera PA e FC). Está indicada nos casos de angina refratária ao
+Estratégia
+MED
+Prof. Paulo Dalto| Resumo Estratégico | 2024 10
+CARDIOLOGIA Doença Arterial Coronariana Estável
+tratamento medicamentoso de primeira e segunda linhas.
+• IVABRADINA (Procoralan®)
+Não afeta a pressão arterial, a contratilidade miocárdica e a condução intracardíaca. Pode ser utilizada como alternativa nos pacientes
+intolerantes aos betabloqueadores ou naqueles que não controlam a FC a despeito destes.
+• ALOPURINOL
+É a última opção de tratamento, quase nunca utilizado na prática clínica e muito pouco cobrado em prova. Trata-se de um inibidor da
+xantina oxidase, que atua reduzindo os níveis de ácido úrico nos pacientes com gota. Também possui propriedades antianginosas.
+Para finalizar, que tal um algoritmo resumindo tudo que você estudou sobre tratamento medicamentoso até agora?
+TRATAMENTO FARMACOLÓGICO DA ANGINA ESTÁVEL PARA ALÍVIO DOS SINTOMAS
+E MELHORA NA QUALIDADE DE VIDA
+CONTROLE DOS FATORES AGRAVANTES E/OU
+PRECIPITANTES DA ANGINA
+NITRATOS DE AÇÃO RÁPIDA
+BLOQUEADORES
+BLOQUEADORES DE CANAIS DE CÁLCIO
+NITRATOS DE AÇÃO PROLONGADA
+ALOPURINOL
+TRIMETAZIDINA IVABRADINA
+1ª LINHA
+3ª LINHA
+4ª LINHA
+2ª LINHA (associada a betabloqueadores e / ou entre si)
+CRISE AGUDA
+Estratégia
+MED
+Prof. Paulo Dalto | Resumo Estratégico | 2024 11
+CARDIOLOGIA Doença Arterial Coronariana Estável
+3.2.2 DROGAS QUE PREVINEM EVENTOS CARDIOVASCULARES
+Na DAC crônica, devemos dar preferência às medicações que reduzem a mortalidade. São elas: inibidores da enzima conversora de
+angiotensina (iECA), estatinas, betabloqueadores e aspirina.
+Olhos abertos para esta atualização!
+O AAS não está mais indicado como profilaxia primária de eventos cardiovasculares!
+Ele pode ser prescrito como profilaxia secundária (pacientes que já apresentaram algum evento
+cardiovascular como infarto e AVC), pois, nesse cenário, os benefícios estão bem estabelecidos. A dose
+recomendada é de 75 mg/dia - 162 mg/dia.
+MEDICAÇÕES QUE PREVINEM EVENTOS CARDIOVASCULARES
+• IECA
+• Estatinas
+• Betabloqueadores
+• AAS (profilaxia secundária)
+3.3 INDICAÇÕES DE REVASCULARIZAÇÃO
+O tratamento intervencionista é composto pela cirurgia de revascularização miocárdica e pela angioplastia percutânea. A decisão sobre
+a forma de tratamento deve ser baseada na presença e gravidade dos sintomas de isquemia, em sua extensão, complexidade e localização das
+lesões, disfunção ventricular e presença de comorbidades.
+SITUAÇÕES EM QUE A REVASCULARIZAÇÃO TEM BENEFÍCIO COMPROVADO
+• Lesão de tronco > 50%
+• Pacientes triarteriais (3 artérias acometidas)
+• Lesão grave de DA proximal
+• Pacientes biarteriais (2 artérias acometidas) sem lesão na DA proximal, mas com isquemia importante
+• Disfunção do VE
+• Lesão grave em vaso derradeiro (presença de um único vaso viável responsável pela irrigação cardíaca.
+Por exemplo: apenas a artéria descendente anterior está aberta, as outras encontram-se ocluídas).
+Qual método de revascularização escolher?
+A cirurgia de revascularização miocárdica continua sendo a primeira opção de tratamento para a maioria dos pacientes com doença
+de tronco de coronária esquerda e triarteriais com acometimento de DA proximal, principalmente naqueles com disfunção do ventrículo
+esquerdo e/ou diabetes.
+A angioplastia geralmente é reservada para situações menos complexas, como lesões uni ou biarteriais, em não diabéticos, e que não
+envolvem a DA proximal.
+Estratégia
+MED
+Prof. Paulo Dalto| Resumo Estratégico | 2024 12
+CARDIOLOGIA Doença Arterial Coronariana Estável
+Lesão uniarterial
+Geralmente angioplastia. Exceções:
+1. Lesão de TCE (tronco de coronária esquerda)
+2. Lesão de DA proximal (individualizar)
+3. Paciente passará por outros procedimentos
+ cirúrgicos (ex: troca valvar)
+Lesão de TCE ou
+multiarterial Cirurgia é a escolha na maioria dos casos
+Baixe na Google Play Baixe na App Store
+Aponte a câmera do seu celular para o
+QR Code ou busque na sua loja de apps.
+Baixe o app Estratégia MED
+Preparei uma lista exclusiva de questões com os temas dessa aula!
+Acesse nosso banco de questões e resolva uma lista elaborada por mim, pensada para a sua aprovação.
+Lembrando que você pode estudar online ou imprimir as listas sempre que quiser.
+Resolva questões pelo computador
+Copie o link abaixo e cole no seu navegador
+para acessar o site
+Resolva questões pelo app
+Aponte a câmera do seu celular para
+o QR Code abaixo e acesse o app
+Estratégia
+MED
+Prof. Paulo Dalto| Resumo Estratégico | 2024 13
+CARDIOLOGIA Doença Arterial Coronariana Estável
+https://estr.at/3lwLy1J
+Estratégia
+MED
+Prof. Paulo Dalto| Resumo Estratégico | 2024 14
+CARDIOLOGIA Doença Arterial Coronariana Estável
+CAPÍTULO
+6.0 CONSIDERAÇÕES FINAIS
+Fim de resumo! DAC estável é um assunto extenso e que envolve outras áreas da cardiologia, como as síndromes coronarianas agudas e
+dislipidemias. Portanto, não deixe de estudar todos esses temas. Este resumo contém os assuntos mais cobrados em provas, mas o conteúdo
+completo você encontra em nosso livro digital.
+Pode contar comigo para qualquer dúvida! Um grande abraço.
+Professor Paulo Dalto
+CAPÍTULO
+5.0 REFERÊNCIAS BIBLIOGRÁFICAS
+1. Diretrizes de Doença Coronária Estável da Sociedade Brasileira de Cardiologia. Arq Brasil Cardiol, 2014. volume 103; número 2.
+2. Atualização da Diretriz de Prevenção Cardiovascular da Sociedade Brasileira de Cardiologia, 2019.
+3. Livro-texto da Sociedade Brasileira de Cardiologia, 2ª edição, São Paulo: Ed. Manole, 2015
+4. Brauwald Tratado de doenças cardiovasculares. 10ª edição. Philadelphia: WB Saunders, 2018.
+5. Harrison’s Manual of medicine. 20ª edition. McGraws-Hill Education, 2020.
+Estratégia
+MED
+Prof. Paulo Dalto| Resumo Estratégico | 2024 15
+CARDIOLOGIA Doença Arterial Coronariana Estável

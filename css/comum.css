@@ -1,0 +1,187 @@
+
+
+/* --- Variáveis Globais e Estilo Base --- */
+:root {
+    --primary-color: #005DFF; /* Um azul vibrante e moderno, que inspira confiança e tecnologia. */
+    --success-color: #03A678; /* Um verde que sinaliza progresso e sucesso, alinhado ao crescimento do aluno. */
+    --secondary-color: #6c757d; /* Cinza padrão para textos secundários, garantindo legibilidade. */
+    --light-bg: #f8f9fa; /* Fundo leve e limpo. */
+    --dark-text: #212529; /* Cor principal para textos, garantindo alto contraste. */
+    --border-radius: 0.5rem; /* Bordas arredondadas para um look moderno e amigável. */
+    --shadow-sm: 0 .125rem .25rem rgba(0, 0, 0, .075);
+    --shadow-lg: 0 1rem 3rem rgba(0, 0, 0, .175);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--light-bg);
+    color: var(--dark-text);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* --- Tipografia e Cabeçalho --- */
+h1.display-4, .h1 {
+    font-weight: 700;
+    color: var(--primary-color);
+    /* A "nova voz da educação médica" precisa ser forte e clara.  */
+}
+
+p.lead {
+    color: var(--secondary-color);
+    font-weight: 400;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    /* "Didático sem ser arrogante".  */
+}
+
+/* --- Estilo dos Cards --- */
+.card {
+    border-radius: var(--border-radius);
+    border: none;
+    /* "Padrão visual leve", com sombras que criam profundidade.  */
+}
+
+.card.shadow-lg {
+    box-shadow: var(--shadow-lg) !important;
+}
+
+.card.shadow-sm {
+    box-shadow: var(--shadow-sm) !important;
+}
+
+.card-title, .h5 {
+    font-weight: 600;
+    color: var(--dark-text);
+}
+
+/* --- Estilo dos Botões --- */
+.btn {
+    border-radius: var(--border-radius);
+    font-weight: 600;
+    padding: 0.75rem 1.5rem;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.btn-primary:hover, .btn-primary:focus {
+    background-color: #004ecc; /* Um tom mais escuro para feedback visual. */
+    border-color: #004ecc;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px rgba(0, 93, 255, 0.2);
+}
+
+.btn-success {
+    background-color: var(--success-color);
+    border-color: var(--success-color);
+}
+
+.btn-success:hover, .btn-success:focus {
+    background-color: #028f66;
+    border-color: #028f66;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px rgba(3, 166, 120, 0.2);
+}
+
+/* --- Estilo de Formulários --- */
+.form-label {
+    font-weight: 600;
+    color: var(--dark-text);
+}
+
+.form-control {
+    border-radius: var(--border-radius);
+    padding: 0.75rem 1rem;
+}
+
+.form-control:focus {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 0.25rem rgba(0, 93, 255, 0.25);
+}
+
+/* --- Estilo para Resultados (Cards Dinâmicos) --- */
+#resultado .card {
+    background-color: #fff;
+    margin-bottom: 1.5rem !important; /* Espaçamento consistente. */
+}
+
+#resultado .card-body {
+    padding: 1.5rem;
+}
+
+/* Estilização das "Tags" de Disciplinas e Conteúdos. */
+.badge {
+    padding: 0.5em 1em;
+    font-size: 0.9rem;
+    font-weight: 600;
+    display: inline-flex;
+    align-items: center;
+    margin-bottom: 0.5rem;
+}
+
+.badge.bg-secondary {
+    background-color: #6c757d !important; /* Cor para a disciplina principal. */
+}
+
+.badge.bg-info {
+    background-color: #0dcaf0 !important; /* Cor para os conteúdos. */
+}
+
+.badge .btn-close {
+    margin-left: 0.5rem;
+    filter: brightness(0) invert(1); /* Deixa o 'x' branco para melhor contraste. */
+    opacity: 0.8;
+}
+
+.badge .btn-close:hover {
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+/* --- Estilo dos Modais --- */
+.modal-content {
+    border-radius: var(--border-radius);
+}
+
+.modal-header {
+    border-bottom: none;
+    padding: 1.5rem;
+}
+
+.modal-header .h5 {
+    font-weight: 700;
+}
+
+.modal-body {
+    padding: 1.5rem;
+}
+
+.modal-footer {
+    border-top: none;
+    padding: 1.5rem;
+}
+
+.bg-warning-subtle {
+    background-color: #fff3cd !important;
+}
+
+.bg-danger-subtle {
+    background-color: #f8d7da !important;
+}
+
+.btn-outline-secondary {
+    border-color: var(--secondary-color);
+    color: var(--secondary-color);
+}
+
+.btn-outline-secondary:hover {
+    background-color: var(--secondary-color);
+    color: #fff;
+}

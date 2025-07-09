@@ -1,0 +1,208 @@
+/* css/questoes.css */
+
+/* :root contém as variáveis de cor e estilo, copiadas de prova.css para manter a identidade visual */
+:root {
+    --primary-color: #005DFF;
+    --primary-color-light: rgba(0, 93, 255, 0.08);
+    --primary-color-text: #004ecc;
+    --primary-color-dark: #003b8f;
+    --success-color: #03A678;
+    --success-color-light: rgba(3, 166, 120, 0.1);
+    --danger-color: #dc3545;
+    --warning-color: #ffc107;
+    --bg-main: #f0f2f5;
+    --bg-card: #ffffff;
+    --bg-card-header: #f8f9fa;
+    --text-primary: #1d2b3a;
+    --text-secondary: #5a6978;
+    --border-color: #dee2e6;
+    --border-radius: 12px;
+    --shadow-sm: 0 2px 4px rgba(0,0,0,0.05);
+    --shadow-md: 0 8px 16px rgba(0,0,0,0.07);
+    --transition-fast: 0.2s ease;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--bg-main);
+    color: var(--text-primary);
+}
+
+.container {
+    max-width: 900px;
+}
+
+h1 {
+    font-weight: 700;
+    color: var(--text-primary);
+}
+
+.questao-card {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-left: 5px solid var(--border-color);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow-sm);
+    transition: transform var(--transition-fast), box-shadow var(--transition-fast), border-left-color var(--transition-fast);
+}
+
+.questao-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-md);
+}
+
+.questao-card:has(.form-check-input:checked) {
+    border-left-color: var(--success-color);
+}
+
+.card-header {
+    background-color: var(--bg-card-header);
+    border-bottom: 1px solid var(--border-color);
+}
+
+.badge.bg-primary-soft {
+    background-color: var(--primary-color-light) !important;
+    color: var(--primary-color-text) !important;
+    font-weight: 600;
+}
+
+.card-body .card-text {
+    line-height: 1.7;
+}
+
+.card-footer {
+    background-color: var(--bg-card);
+    border-top: 1px solid var(--border-color);
+}
+
+.form-check {
+    padding-left: 0;
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.form-check-input {
+    display: none;
+}
+
+.form-check-label {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    padding: 1rem;
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    flex-grow: 1;
+}
+
+.form-check-label strong {
+    flex-shrink: 0;
+    display: grid;
+    place-items: center;
+    width: 28px;
+    height: 28px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--text-secondary);
+    background-color: var(--bg-main);
+    border: 1px solid var(--border-color);
+    border-radius: 50%;
+    transition: all var(--transition-fast);
+}
+
+.form-check-label:hover {
+    border-color: var(--primary-color);
+    background-color: var(--primary-color-light);
+}
+
+.form-check-label:hover strong {
+    color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.form-check-input:checked + .form-check-label {
+    border-color: var(--success-color);
+    background-color: var(--success-color-light);
+}
+
+.form-check-input:checked + .form-check-label strong {
+    background-color: var(--success-color);
+    border-color: var(--success-color);
+    color: var(--bg-card);
+}
+
+/* === NOVOS ESTILOS PARA SEÇÃO DE COMENTÁRIOS === */
+
+.comentarios-section {
+    padding: 1.25rem;
+    background-color: #fcfdff;
+    border-top: 1px solid #e9ecef;
+}
+
+.comentario {
+    padding: 1rem 0;
+    border-bottom: 1px solid #f1f3f5;
+}
+
+.comentario:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.comentario-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5rem;
+}
+
+.comentario-avatar {
+    width: 32px;
+    height: 32px;
+    background-color: var(--primary-color);
+    color: white;
+    display: grid;
+    place-items: center;
+    border-radius: 50%;
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin-right: 10px;
+}
+
+.comentario-autor {
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.comentario-data {
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+    margin-left: auto;
+}
+
+.comentario-corpo {
+    margin-left: 42px; /* alinha com o texto do autor */
+    font-size: 0.95rem;
+    color: #495057;
+}
+
+.comentario-respostas {
+    margin-left: 20px;
+    padding-left: 22px;
+    border-left: 2px solid #e9ecef;
+}
+
+.btn-comentarios {
+    font-weight: 500;
+}
+
+.comentario-form-container {
+    padding-top: 1rem;
+    border-top: 1px dashed #dee2e6;
+    margin-top: 1rem;
+}

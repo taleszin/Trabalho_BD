@@ -1,0 +1,8 @@
+RewriteEngine On
+
+# Se a URL não for um diretório...
+RewriteCond %{REQUEST_FILENAME} !-d
+# ...e se for um arquivo .php
+RewriteCond %{REQUEST_FILENAME}\.php -f
+# Então redireciona sem a extensão
+RewriteRule ^([^/]+)$ $1.php [L]

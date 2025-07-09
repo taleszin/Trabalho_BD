@@ -1,0 +1,59 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f0f2f5;
+    color: #1d2b3a;
+}
+
+.main-header h2 {
+    font-weight: 700;
+    color: #1d2b3a;
+}
+
+.main-header .lead {
+    color: #6c757d;
+}
+
+.stat-card {
+    background-color: #ffffff;
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.05);
+    text-align: center;
+    border: 1px solid #e9ecef;
+}
+
+.stat-card .stat-value {
+    font-size: clamp(2rem, 5vw, 2.5rem);
+    font-weight: 700;
+    color: #005DFF;
+}
+
+.stat-card .stat-value.text-success {
+    color: #03A678 !important;
+}
+
+.stat-card .stat-label {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #6c757d;
+}
+
+.chart-card {
+    background-color: #ffffff;
+    border-radius: 12px;
+    padding: 2rem;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.05);
+    border: 1px solid #e9ecef;
+}
+
+.chart-card h3 {
+    font-weight: 600;
+    font-size: 1.25rem;
+    color: #1d2b3a;
+    margin-bottom: 1.5rem;
+}
+
+.chart-container {
+    position: relative;
+    height: 350px;
+}

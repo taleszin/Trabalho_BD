@@ -1,0 +1,208 @@
+:root {
+    --primary-color: #005DFF;
+    --primary-color-light: rgba(0, 93, 255, 0.08);
+    --primary-color-text: #004ecc;
+    --success-color: #03A678;
+    --success-color-light: rgba(3, 166, 120, 0.1);
+    --success-color-text: #028f66;
+    --danger-color: #dc3545;
+    --bg-main: #f0f2f5;
+    --bg-card: #ffffff;
+    --bg-card-header: #f8f9fa;
+    --text-primary: #1d2b3a;
+    --text-secondary: #5a6978;
+    --border-color: #dee2e6;
+    --border-radius: 12px;
+    --shadow-sm: 0 2px 4px rgba(0,0,0,0.05);
+    --shadow-md: 0 8px 16px rgba(0,0,0,0.07);
+    --transition-fast: 0.2s ease;
+    --transition-slow: 0.4s ease;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--bg-main);
+    color: var(--text-primary);
+}
+
+.container {
+    max-width: 900px;
+}
+
+h1 {
+    font-weight: 700;
+    color: var(--text-primary);
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--border-color);
+}
+
+.card {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-left: 5px solid var(--border-color);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow-sm);
+    margin-bottom: 2.5rem !important;
+    transition: transform var(--transition-fast), box-shadow var(--transition-fast), border-left-color var(--transition-slow);
+}
+
+.card:has(.form-check-input:checked) {
+    border-left-color: var(--success-color);
+    box-shadow: var(--shadow-md);
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 1.5rem;
+    background-color: var(--bg-card-header);
+    border-bottom: 1px solid var(--border-color);
+}
+
+.card-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.card-title .badge {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.4em 0.8em;
+    background-color: var(--primary-color-light) !important;
+    color: var(--primary-color-text) !important;
+    border-radius: 6px;
+}
+
+.card-body {
+    padding: 1.5rem;
+}
+
+.card-text {
+    font-size: 1rem;
+    line-height: 1.7;
+    color: var(--text-primary);
+}
+
+.card-text strong {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: var(--text-secondary);
+    font-weight: 500;
+}
+
+.form-check {
+    padding-left: 0;
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.form-check-input {
+    display: none;
+}
+
+.form-check-label {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    padding: 1rem;
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    flex-grow: 1;
+}
+
+.form-check-label strong {
+    flex-shrink: 0;
+    display: grid;
+    place-items: center;
+    width: 28px;
+    height: 28px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--text-secondary);
+    background-color: var(--bg-main);
+    border: 1px solid var(--border-color);
+    border-radius: 50%;
+    transition: all var(--transition-fast);
+}
+
+.form-check-label:hover {
+    border-color: var(--primary-color);
+    background-color: var(--primary-color-light);
+}
+
+.form-check-label:hover strong {
+    color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.form-check-input:checked + .form-check-label {
+    border-color: var(--success-color);
+    background-color: var(--success-color-light);
+    box-shadow: 0 0 0 2px var(--success-color-light);
+}
+
+.form-check-input:checked + .form-check-label strong {
+    background-color: var(--success-color);
+    border-color: var(--success-color);
+    color: var(--bg-card);
+}
+
+.descartar-btn {
+    cursor: pointer;
+    color: var(--text-secondary);
+    font-size: 1rem;
+    transition: color var(--transition-fast);
+    padding: 0.5rem;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+.descartar-btn:hover {
+    color: var(--danger-color);
+    background-color: rgba(220, 53, 69, 0.1);
+}
+
+.alternativa-descartada {
+    text-decoration: line-through;
+    color: var(--text-secondary) !important;
+    pointer-events: none;
+}
+
+.btn-primary {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #fff;
+    background: var(--primary-color);
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: var(--border-radius);
+    transition: all var(--transition-fast) ease;
+    box-shadow: 0 4px 15px rgba(0, 93, 255, 0.2);
+}
+
+.btn-primary:hover {
+    background: var(--primary-color-text);
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0, 93, 255, 0.25);
+}
+
+.modal-content {
+    border-radius: var(--border-radius);
+}
+
+.feedback-animation-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 9999;
+}

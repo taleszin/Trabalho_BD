@@ -1,0 +1,430 @@
+AVALIAÇÃO CARDIOVASCULAR
+PERIOPERATÓRIA
+PROF. PAULO DALTO
+Estratégia
+MED
+CARDIOLOGIA Prof. Paulo Dalto | Avaliação Cardiovascular Perioperatória 2
+PROF. PAULO DALTO
+APRESENTAÇÃO:
+Olá, querido(a) Estrategista! Este é um RESUMÃO de seu 
+livro Avaliação Cardiovascular Perioperatória. Ele foi elaborado 
+de maneira bem didática e direta, com os assuntos mais quentes 
+sobre o tema, que é um dos mais difíceis de todo o curso de 
+Cardiologia.
+Um detalhe: classificação e conduta são os tópicos mais 
+importantes.
+Aqui vai uma orientação: sugiro que use este livro como 
+um guia de consulta rápida e não deixe de ler o livro completo, 
+pois lá você encontrará informações e questões que o ajudarão a 
+sedimentar seu conhecimento.
+Vamos começar nosso resumo? ;)
+@estrategiamed
+/estrategiamed
+Estratégia MED
+t.me/estrategiamed
+@estrategiamed
+@profpaulodalto
+Estratégia
+MED
+CARDIOLOGIA Avaliação Cardiovascular Perioperatória
+Prof. Paulo Dalto | Resumo Estratégico | 2024 3
+SUMÁRIO
+1.0 AVALIAÇÃO PRÉ-OPERATÓRIA GERAL 4
+1.1 EXAMES COMPLEMENTARES BÁSICOS 4
+1.1.1 EXAMES LABORATORIAIS 5
+1.1.2 ELETROCARDIOGRAMA (ECG) 6
+1.1.3 RADIOGRAFIA DE TÓRAX 6
+2.0 AVALIAÇÃO PRÉ-OPERATÓRIA ESPECÍFICA 7
+2.1 ECOCARDIOGRAMA 7
+2.2 TESTES NÃO INVASIVOS PARA PESQUISA DE ISQUEMIA MIOCÁRDICA 7
+2.2.1 TESTE ERGOMÉTRICO (TE) 7
+2.2.2 CINTILOGRAFIA DE PERFUSÃO MIOCÁRDICA (CPM) COM ESTRESSE 8
+2.2.3 ECOCARDIOGRAMA DE ESTRESSE COM DOBUTAMINA 8
+2.3 CINEANGIOCORONARIOGRAFIA 8
+3.0 ALGORITMOS DE AVALIAÇÃO PRÉ-OPERATÓRIA 9
+3.1 ÍNDICES DE RISCO CARDIOVASCULAR 9
+3.2 COMO DEFINIR A CONDUTA PERIOPERATÓRIA? 11
+3.3 FLUXOGRAMA DE AVALIAÇÃO PRÉ-OPERATÓRIA 12
+4.0 MEDIDAS PARA REDUÇÃO DO RISCO CIRÚRGICO 13
+4.1 TERAPIA MEDICAMENTOSA PERIOPERATÓRIA 13
+4.1.1 BETABLOQUEADORES 13
+4.1.2 ESTATINAS 14
+4.1.3 ANTIAGREGANTES PLAQUETÁRIOS 14
+4.2 MANEJO DA ANTICOAGULAÇÃO NO PERIOPERATÓRIO 15
+5.0 LISTA DE QUESTÕES 16
+6.0 REFERÊNCIAS BIBLIOGRÁFICAS 17
+7.0 CONSIDERAÇÕES FINAIS 17
+Estratégia
+MED
+CARDIOLOGIA Avaliação Cardiovascular Perioperatória
+Prof. Paulo Dalto | Resumo Estratégico | 2024 4
+CAPÍTULO
+1.0 AVALIAÇÃO PRÉ-OPERATÓRIA GERAL
+O objetivo principal da avaliação pré-operatória é identificar variáveis relacionadas ao estado clínico do paciente e ao procedimento 
+cirúrgico que podem resultar em um risco maior de complicações. Vamos direto ao que é importante, aquilo que você precisa saber para 
+acertar as questões de prova.
+1.1 EXAMES COMPLEMENTARES BÁSICOS
+As bancas adoram este assunto: quando indicar um exame complementar na avaliação perioperatória. É um erro muito comum, 
+cometido mesmo por profissionais experientes, pensar que os exames complementares são necessários em todos os casos. Essa conduta não 
+está relacionada à redução de complicações perioperatórias, além de resultar em um elevado custo para o sistema de saúde.
+Veja o que a 3ª Diretriz de Avaliação Cardiovascular Perioperatória da Sociedade Brasileira de Cardiologia orienta: 
+“Não há indicação da realização de exames laboratoriais rotineiros na avaliação pré-operatória em pacientes assintomáticos
+submetidos a procedimentos de baixo risco. A indicação de exames pré-operatórios deve ser individualizada conforme a história, o 
+exame físico, as doenças e as comorbidades apresentadas pelos pacientes, assim como o tipo e o porte da cirurgia proposta”
+Estratégia
+MED
+CARDIOLOGIA Avaliação Cardiovascular Perioperatória
+Prof. Paulo Dalto | Resumo Estratégico | 2024 5
+Veja a indicação dos principais exames complementares na avaliação perioperatória:
+1.1.1 EXAMES LABORATORIAIS
+Hemograma completo
+• Indivíduos com suspeita clínica de anemia ou de doenças crônicas associadas à anemia (doença inflamatória crônica, 
+insuficiência renal crônica, cirrose etc.).
+• História de doenças hematológicas ou hepáticas.
+• Cirurgias de médio e grande porte ou procedimentos em que é esperada uma perda sanguínea significativa.
+Idade > 40 anos.
+Glicemia de jejum e hemoglobina glicada
+• Pacientes com risco aumentado de diabetes baseado na história clínica, exame físico e uso de medicações como 
+corticoides.
+• Diabéticos beneficiam-se mais da hemoglobina glicada, uma vez que o exame de glicemia reflete apenas o controle 
+glicêmico das últimas horas.
+Hemostasia/testes de coagulação
+• Pacientes em uso de anticoagulantes.
+• Pacientes com insuficiência hepática.
+• Portadores de distúrbios de coagulação (história de sangramento).
+• Intervenções de médio e grande porte.
+Creatinina sérica
+• Portadores de nefropatia, diabetes mellitus, hipertensão arterial sistêmica, insuficiência hepática ou cardíaca, caso 
+não haja resultado desses exames nos últimos 12 meses.
+• Intervenções de médio e grande porte.
+• Idade > 40 anos.
+Exame de urina (urina I)
+• Pacientes com sintomas sugestivos de infecção do trato urinário.
+• Pacientes assintomáticos que serão submetidos a implante de materiais protéticos (próteses ortopédicas, valvas 
+cardíacas etc.) ou procedimentos urológicos invasivos.
+Estratégia
+MED
+CARDIOLOGIA Avaliação Cardiovascular Perioperatória
+Prof. Paulo Dalto | Resumo Estratégico | 2024 6
+1.1.3 RADIOGRAFIA DE TÓRAX
+A radiografia de tórax não deve ser realizada de forma rotineira em pacientes assintomáticos.
+Indicações de radiografia de tórax
+• Pacientes com história ou exame físico sugestivos de doenças cardiorrespiratórias.
+• Nas intervenções de médio a grande porte, principalmente nas cirurgias intratorácicas e intra-abdominais.
+• Considerar em pacientes > 40 anos.
+1.1.2 ELETROCARDIOGRAMA (ECG)
+Indicações de ECG
+• Pacientes com história e/ou anormalidades ao exame físico sugestivas de doença cardiovascular.
+• Pacientes submetidos a operações intracavitárias, transplante de órgãos sólidos, cirurgias ortopédicas de grande 
+porte e vasculares arteriais.
+• Pacientes com alto risco cirúrgico pré-operatório.
+• Presença de diabetes mellitus.
+• Idade > 40 anos.
+• Obesos.
+Estratégia
+MED
+CARDIOLOGIA Avaliação Cardiovascular Perioperatória
+Prof. Paulo Dalto | Resumo Estratégico | 2024 7
+CAPÍTULO
+2.0 AVALIAÇÃO PRÉ-OPERATÓRIA ESPECÍFICA
+Após a avaliação geral, alguns pacientes necessitarão passar por uma avaliação mais específica, seja pelo risco intrínseco da cirurgia 
+(ex.: cirurgias vasculares arteriais) ou devido a alterações encontradas na avaliação inicial. 
+Pensando nos pacientes com risco cardiovascular mais elevado, veja as indicações dos principais exames disponíveis.
+2.1 ECOCARDIOGRAMA
+Recomendações para a realização do ecocardiograma pré-operatório
+• Pacientes com insuficiência cardíaca ou sintomas suspeitos e que serão submetidos à cirurgia de risco intermediário 
+ou alto (ver adiante a tabela de classificação de risco intrínseco a cada procedimento), sem avaliação no último ano, ou 
+que tiveram piora clínica. 
+• Presença de valvopatia conhecida ou suspeita de grau moderado/importante e que serão submetidos à cirurgia de 
+risco intermediário ou alto, sem avaliação no último ano, ou que tiveram piora clínica.
+• Pacientes que serão submetidos a transplante hepático (avaliar a presença de hipertensão pulmonar).
+• Pacientes portadores de prótese intracardíaca que serão submetidos à cirurgia de risco intermediário ou alto, 
+sintomáticos ou sem avaliação no último ano.
+2.2 TESTES NÃO INVASIVOS PARA PESQUISA DE ISQUEMIA MIOCÁRDICA
+2.2.1 TESTE ERGOMÉTRICO (TE)
+Apesar do grande auxílio proporcionado pelo TE, não há evidências de que seu uso rotineiro resulte na redução de eventos 
+cardiovasculares perioperatórios.
+Recomendações para a realização de TE perioperatório
+• Paciente com risco intermediário ou alto de complicações (sem condições cardiovasculares graves no perioperatório) 
+e programação de cirurgia vascular arterial.
+Saber quando não indicar o TE também é importante. Com isso, você acertará várias questões.
+Estratégia
+MED
+CARDIOLOGIA Avaliação Cardiovascular Perioperatória
+Prof. Paulo Dalto | Resumo Estratégico | 2024 8
+Contraindicações ao TE perioperatório:
+1. Pacientes que serão submetidos à cirurgia de baixo risco.
+2. Pacientes com baixo risco de complicações e que serão submetidos à cirurgia de baixo ou 
+intermediário risco.
+2.2.2 CINTILOGRAFIA DE PERFUSÃO MIOCÁRDICA (CPM) COM ESTRESSE
+É um bom método de avaliação para aqueles pacientes com limitações que impedem a realização do teste ergométrico, como, por 
+exemplo: alterações do segmento ST no eletrocardiograma basal (infra ST ≥ 1mm, bloqueio de ramo esquerdo) ou limitações físicas. Portanto, 
+na avaliação perioperatória, a CPM com estresse está muito bem indicada para esses pacientes e também para aqueles em que o resultado 
+do TE foi falso-positivo.
+2.2.3 ECOCARDIOGRAMA DE ESTRESSE COM DOBUTAMINA
+A ecocardiografia de estresse (físico ou farmacológico com dobutamina) na estratificação de risco cardiovascular antes da cirurgia 
+possui resultados semelhantes à cintilografia de perfusão miocárdica. Portanto, a escolha entre uma modalidade ou outra praticamente 
+dependerá da preferência do médico.
+2.3 CINEANGIOCORONARIOGRAFIA
+É um procedimento invasivo que permite a avaliação da anatomia coronariana. Raramente é indicado para avaliar o risco cardiovascular 
+dos pacientes que serão submetidos à cirurgia não cardíaca.
+Recomendações para a solicitação da cineangiocoronariografia no pré-operatório
+• Pacientes com síndrome coronariana aguda.
+• Pacientes com isquemia extensa (> 10%) em prova funcional (cintilografia ou ecocardiograma de estresse).
+Estratégia
+MED
+CARDIOLOGIA Avaliação Cardiovascular Perioperatória
+Prof. Paulo Dalto | Resumo Estratégico | 2024 9
+CAPÍTULO
+3.0 ALGORITMOS DE AVALIAÇÃO PRÉ-OPERATÓRIA
+Diversos algoritmos foram desenvolvidos com o objetivo de estimar o risco perioperatório e facilitar o processo de avaliação, ajudando 
+o médico a propor estratégias para que o risco de eventos adversos seja reduzido.
+Nas próximas páginas, você aprenderá como definir o risco cardiovascular perioperatório. 
+3.1 ÍNDICES DE RISCO CARDIOVASCULAR
+A 3ª Diretriz de Avaliação Cardiovascular Perioperatória da Sociedade Brasileira de Cardiologia destaca os três índices de risco a seguir:
+1. Índice de risco cardíaco revisado (índice de Lee).
+2. Índice do American College of Physicians (ACP).
+3. Estudo Multicêntrico de Avaliação Perioperatória (EMAPO).
+Os mais utilizados na prática são os índices de Lee e o do ACP. O índice de Lee é um dos mais cobrados em prova, assim como um outro 
+que não é contemplado pela diretriz: o escore de ASA.
+As próximas tabelas são dos escores que você precisa saber.
+Escore de Lee
+• Fatores de risco:
+1. Cirurgia intraperitoneal, intratorácica ou vascular suprainguinal.
+2. Doença arterial coronária (ondas Q, sintomas de isquemia, teste não-invasivo alterado, uso de nitrato).
+3. Insuficiência cardíaca congestiva (quadro clínico sugestivo e/ou radiografia de tórax com congestão).
+4. Doença cerebrovascular.
+5. Diabetes mellitus em uso de insulinoterapia.
+6. Creatinina pré-operatória > 2 mg/dl.
+• Estratificação de risco cardiovascular perioperatório:
+◦ Classe I: nenhuma variável – baixo risco (0,4%).
+◦ Classe II: uma variável – baixo risco (0,9%).
+◦ Classe III: duas variáveis – risco intermediário (7%).
+◦ Classe IV: três ou mais variáveis – alto risco (11%).
+*ECG: eletrocardiograma; K: potássio; U: uréia; Cr: creatinina; IC: insuficiência cardíaca; HAS: hipertensão arterial sistêmica.
+Estratégia
+MED
+CARDIOLOGIA Avaliação Cardiovascular Perioperatória
+Prof. Paulo Dalto | Resumo Estratégico | 2024 10
+Para memorizar de forma fácil o algoritmo de Lee, é só lembrar dos 6Cs.
+Classificação da American Society of Anesthesiologists (ASA)
+ASA 1: paciente sadio, sem alterações orgânicas.
+ASA 2: paciente com alteração sistêmica leve ou moderada.
+ASA 3: paciente com alteração sistêmica grave, com limitação funcional.
+ASA 4: paciente com alteração sistêmica grave que representa risco de vida.
+ASA 5: paciente moribundo, que não é esperado sobreviver sem cirurgia.
+ASA 6: paciente com morte cerebral declarada, cujos órgãos estão sendo removidos com propósito de doação.
+E: acrescentar a letra E a qualquer classe se a cirurgia for de emergência.
+Cirurgia
+• Intraperitoneal
+• Intratorácica
+• Vascular suprainguinal
+Coronária
+• Onda Q no eletrocardiograma
+• Isquemia
+Coração congesto
+• Sinais / sintomas de IC
+• Rx de tórax com congestão
+Em uso de insulina
+Cabeça (cerebrovascular)
+• AVC/AIT
+Creatinina > 2
+“Çúcar
+”
+ no sangue
+Estratégia
+MED
+CARDIOLOGIA Avaliação Cardiovascular Perioperatória
+Prof. Paulo Dalto | Resumo Estratégico | 2024 11
+3.2 COMO DEFINIR A CONDUTA PERIOPERATÓRIA? 
+Após estratificar o risco do paciente, devemos definir a conduta perioperatória através de cinco passos:
+Passo 1: avaliar se a cirurgia é de urgência/emergência. 
+Como saber se uma cirurgia é eletiva, de urgência ou emergência?
+• Cirurgia eletiva: são procedimentos que podem ser adiados por até um ano sem que haja prejuízo ao paciente.
+• Cirurgia de urgência: há risco de vida caso o paciente não seja operado em breve. Normalmente, entre 6 e 24 horas do 
+momento da indicação.
+• Cirurgia de emergência: são cirurgias que não podem ser postergadas devido ao risco de morte, devendo ser realizadas 
+dentro de 6 horas.
+Passo 2: avaliar a presença de condições cardíacas graves. Caso alguma esteja presente, cancelar o procedimento e tratar a doença 
+cardíaca (exceto nos casos de cirurgia de emergência).
+Passo 3: estimar o risco intrínseco do procedimento. Caso não haja nenhuma condição cardíaca ativa e o procedimento for de baixo 
+risco, proceder com a cirurgia.
+Classificação do risco intrínseco da cirurgia
+Alto (risco cardíaco ≥ 5%) • Cirurgias vasculares arteriais de aorta e vasculares periféricas.
+• Cirurgias de urgência ou emergência.
+Intermediário (risco cardíaco entre 1% e 5%)
+• Endarterectomia de carótida e correção endovascular de 
+aneurisma de aorta abdominal.
+• Cirurgia de cabeça e pescoço.
+• Cirurgias intraperitoneais e intratorácicas.
+• Cirurgias ortopédicas.
+• Cirurgias prostáticas.
+Baixo (risco cardíaco < 1%)
+• Procedimentos endoscópicos.
+• Procedimentos superficiais.
+• Cirurgia de catarata.
+• Cirurgia de mama.
+• Cirurgia ambulatorial.
+Estratégia
+MED
+CARDIOLOGIA Avaliação Cardiovascular Perioperatória
+Prof. Paulo Dalto | Resumo Estratégico | 2024 12
+Passo 4: avaliar a capacidade funcional do paciente. Se o paciente tiver boa capacidade funcional (≥ 4 MET) e ausência de sintomas 
+cardiovasculares, proceder com a cirurgia.
+Passo 5: determinar a necessidade de testes de isquemia. Caso a capacidade funcional do paciente seja ruim ou desconhecida (por 
+limitações físicas), deve-se avaliar a presença das variáveis de risco pelo escore de Lee ou do ACP.
+3.3 FLUXOGRAMA DE AVALIAÇÃO PRÉ-OPERATÓRIA
+Que tal juntarmos tudo em um fluxograma?
+*UTI: unidade de terapia intensiva; ECG: eletrocardiograma; PO: pós-operatório.
+PROCEDIMENTO CIRÚRGICO DE URGÊNCIA/EMERGÊNCIA?
+PACIENTE APRESENTA DOENÇAS CARDIOVASCULARES GRAVES?
+ESTRATIFICAR O RISCO CARDIOVASCULAR
+NÃO SIM
+NÃO SIM
+Baixo risco Moderado risco
+Medidas para redução de risco
+Adiar a cirurgia e estabilizar a
+condição cardíaca
+Alto risco
+Operar sem
+necessidade de
+prova de isquemia
+Considerar prova de isquemia se:
+• Cirurgia vascular arterial
+• Cirurgia de risco intermediário E baixa capacidade funcional
+Monitorização em semi-intensivo/UTI com ECG e troponina
+até o 3 PO.
+Figura 1. Fluxograma para estratificação de risco e decisão sobre necessidade de testes para coronariopatia antes de cirurgias não cardíacas.
+Repare que os pacientes de baixo risco podem ser submetidos à intervenção cirúrgica sem a necessidade de exames diagnósticos ou 
+procedimentos terapêuticos adicionais.
+Pacientes de moderado ou alto risco cardiovascular, idealmente, devem realizar o pós-operatório em unidade de terapia intensiva 
+(UTI) ou semi-intensiva, com acompanhamento de ECG e troponina diariamente até o terceiro dia, período em que se concentra a maioria 
+dos eventos cardiovasculares. Particularmente nos casos de alto risco, sempre que possível, a operação deverá ser adiada até a estabilização 
+cardíaca do paciente. Se a natureza do risco for isquêmica, pode ser solicitado o cateterismo cardíaco.
+Estratégia
+MED
+CARDIOLOGIA Avaliação Cardiovascular Perioperatória
+Prof. Paulo Dalto | Resumo Estratégico | 2024 13
+CAPÍTULO
+4.0 MEDIDAS PARA REDUÇÃO DO RISCO CIRÚRGICO
+4.1 TERAPIA MEDICAMENTOSA PERIOPERATÓRIA
+A seguir, você estudará o manejo das principais classes de medicações e como realizar medidas de farmacoproteção. 
+4.1.1 BETABLOQUEADORES
+A explicação para o uso dos betabloqueadores no perioperatório é bem plausível: diminuição do consumo miocárdico de oxigênio e da 
+vulnerabilidade cardíaca às oscilações hemodinâmicas.
+Após diversos trabalhos e muitas discussões no meio acadêmico, as indicações dos betabloqueadores no perioperatório foram definidas.
+Recomendações do uso de betabloqueadores no perioperatório
+• Pacientes que já faziam uso crônico devem manter o uso durante todo o perioperatório (não suspender a medicação 
+antes da cirurgia).
+• Iniciar os betabloqueadores em pacientes com isquemia sintomática ou evidenciada por prova funcional 
+(ecocardiograma de estresse, cintilografia).
+• Evitar iniciar o betabloqueador menos de uma semana antes da cirurgia.
+• Evitar o uso de betabloqueador venoso no perioperatório.
+Recadinho para você não esquecer:
+A suspensão aguda dos betabloqueadores está associada a um aumento importante da mortalidade 
+pós-operatória!
+Estratégia
+MED
+CARDIOLOGIA Avaliação Cardiovascular Perioperatória
+Prof. Paulo Dalto | Resumo Estratégico | 2024 14
+4.1.2 ESTATINAS
+Já usava antes?
+Não usava, mas
+tem indicação?
+Não usava e não
+tem indicação?
+Manter
+Iniciar, no mínimo, 1
+semana antes da
+cirurgia
+Não iniciar Betabloqueador
+As estatinas diminuem a incidência de eventos no perioperatório de cirurgias vasculares, independentemente de sua ação hipolipemiante. 
+Portanto, está bem estabelecido seus benefícios na prevenção de eventos cardiovasculares após operações vasculares. Naqueles pacientes 
+que fazem uso crônico, ela não deve ser suspensa.
+Recomendações para uso perioperatório das estatinas
+• Pacientes que já usam a medicação (não suspender).
+• Pacientes que serão submetidos a cirurgias vasculares arteriais. Iniciar preferencialmente 15 dias antes do 
+procedimento.
+• Pacientes sabidamente coronariopatas.
+4.1.3 ANTIAGREGANTES PLAQUETÁRIOS
+Durante a avaliação perioperatória, muitas vezes nos deparamos com pacientes em uso crônico de antiagregantes plaquetários. No 
+manejo desses pacientes, deve-se pesar o risco de eventos cardiovasculares trombóticos ou embólicos, que podem ocorrer após a suspensão 
+dessas medicações, e o risco de sangramento associado à sua manutenção. 
+• Ácido Acetilsalicílico (AAS)
+Nos pacientes em uso de AAS para prevenção secundária (antecedente de infarto do miocárdio, acidente vascular cerebral), é 
+recomendada sua manutenção na dose máxima de 100 mg ao dia, exceto em ressecções transuretrais de próstata pela técnica convencional 
+e neurocirurgias, quando deve ser suspenso com antecedência de 7 dias.
+Estratégia
+MED
+CARDIOLOGIA Avaliação Cardiovascular Perioperatória
+Prof. Paulo Dalto | Resumo Estratégico | 2024 15
+• Dupla antiagregação plaquetária
+A dupla antiagregação plaquetária (AAS + inibidor da P2Y12: clopidogrel, prasugrel ou ticagrelor) é empregada para os pacientes 
+submetidos ao implante de stent por meio da angioplastia. 
+A melhor forma para se manejar a dupla antiagregação plaquetária é respeitando-se a duração ideal 
+dessa terapia e não realizar cirurgias eletivas no período:
+Implante de stent convencional (metálico): aguardar 6 semanas.
+Implante de stent farmacológico (depende da indicação do stent):
+• no contexto de doença coronariana estável (eletivo): aguardar 6 meses;
+• no contexto de síndrome coronariana aguda (urgência): aguardar 1 ano.
+Há casos em que a cirurgia eletiva não pode ser adiada por muito tempo, como as cirurgias oncológicas. Nessa situação, recomenda-se 
+manter apenas o AAS e retirar o clopidogrel, que deve ser suspenso 5 dias antes e reiniciado o mais breve possível (não ultrapassar 10 dias 
+sem dupla antiagregação).
+Com relação aos outros antiagregantes, a suspensão deve ser feita da seguinte forma:
+• Prasugrel: 7 dias antes da cirurgia.
+• Ticagrelor: 5 dias antes da cirurgia.
+4.2 MANEJO DA ANTICOAGULAÇÃO NO PERIOPERATÓRIO
+Este é um tema que as bancas adoram. Concentre-se, pois estamos na reta final do resumo. 
+A medida referente à anticoagulação no perioperatório mais cobrada nas provas é a famosa “ponte” com heparina. Ela está indicada 
+para os pacientes em uso de varfarina e que apresentam um alto risco de tromboembolismo.
+Como fazer a “ponte” com heparina:
+1. Interromper a varfarina 5 dias antes da cirurgia.
+2. Iniciar a terapia de ponte com heparina não fracionada (HNF) ou de baixo peso molecular 
+(enoxaparina) em dose plena quando o RNI estiver < 2.
+3. Suspender a HNF 4 a 6 horas antes do procedimento e a heparina de baixo peso molecular 24 
+horas antes.
+4. No pós-operatório, reiniciar a HNF ou de baixo peso em dose plena juntamente à varfarina pelo 
+menos 24 horas após a cirurgia. Suspender a heparina somente quando o RNI estiver dentro da faixa 
+terapêutica.
+5. Em pacientes submetidos a cirurgias com alto risco de hemorragia, reiniciar a heparina de baixo 
+peso 48 a 72 horas após a cirurgia.
+O valor de RNI aceitável para liberar o paciente para a cirurgia é menor do que 1,5.
+Estratégia
+MED
+CARDIOLOGIA Avaliação Cardiovascular Perioperatória
+Prof. Paulo Dalto | Resumo Estratégico | 2024 16
+Baixe na Google Play Baixe na App Store
+Aponte a câmera do seu celular para o 
+QR Code ou busque na sua loja de apps.
+Baixe o app Estratégia MED
+Preparei uma lista exclusiva de questões com os temas dessa aula!
+Acesse nosso banco de questões e resolva uma lista elaborada por mim, pensada para a sua aprovação.
+Lembrando que você pode estudar online ou imprimir as listas sempre que quiser.
+Resolva questões pelo computador
+Copie o link abaixo e cole no seu navegador 
+para acessar o site
+Resolva questões pelo app
+Aponte a câmera do seu celular para 
+o QR Code abaixo e acesse o app
+https://estr.at/5Hgk
+Estratégia
+MED
+CARDIOLOGIA Avaliação Cardiovascular Perioperatória
+Prof. Paulo Dalto | Resumo Estratégico | 2024 17
+CAPÍTULO
+6.0 REFERÊNCIAS BIBLIOGRÁFICAS
+1. Livro-texto da Sociedade Brasileira de Cardiologia, 2ª edição, São Paulo: Ed. Manole, 2015.
+2. 3ª Diretriz de Avaliação Cardiovascular Perioperatória da Sociedade Brasileira de Cardiologia, ; volume 109, Nº3, suplemento 1, Setembro 
+2017.
+3. Brauwald Tratado de doenças cardiovasculares. 10ª edição. Philadelphia: WB Saunders, 2018.
+4. Harrison’s Manual of medicine. 20ª edition. McGraws-Hill Education, 2020.
+CAPÍTULO
+7.0 CONSIDERAÇÕES FINAIS
+Fim de resumo! Estudar avaliação cardiovascular perioperatória não é nada fácil. Este resumo reuniu os assuntos preferidos das provas 
+e, com certeza, você acertará muitas questões com ele. O conteúdo completo você encontra no livro digital.
+Pode contar comigo para qualquer dúvida! Um grande abraço.
+Professor Paulo Dalto
+Estratégia
+MED
+CARDIOLOGIA Avaliação Cardiovascular Perioperatória
+Prof. Paulo Dalto | Resumo Estratégico | 2024 18
